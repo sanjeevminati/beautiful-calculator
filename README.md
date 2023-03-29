@@ -1,2 +1,2 @@
-# beautiful-calculator
+# Beautiful calculator
 HTML , CSS , JS
